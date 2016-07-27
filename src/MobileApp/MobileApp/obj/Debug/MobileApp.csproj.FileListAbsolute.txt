@@ -1,0 +1,17 @@
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\bin\Debug\MobileApp.dll
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\bin\Debug\MobileApp.pdb
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\obj\Debug\MobileApp.MainPage.xaml.g.cs
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\obj\Debug\MobileApp.App.xaml.g.cs
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\obj\Debug\MobileApp.dll
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\obj\Debug\MobileApp.pdb
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\bin\Debug\Microsoft.Identity.Client.dll
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\bin\Debug\Microsoft.Identity.Client.xml
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\obj\Debug\MobileApp.csprojResolveAssemblyReference.cache
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\obj\Debug\MobileApp.LoginPage.xaml.g.cs
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\obj\Debug\MobileApp.dll.mdb
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\bin\Debug\MobileApp.dll.mdb
