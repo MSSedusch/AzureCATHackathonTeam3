@@ -1,0 +1,1 @@
+c:\users\jtong\documents\visual studio 2015\Projects\StockWebApi\StockWebApi\obj\x64\Debug\StockWebApi.sfprojResolveAssemblyReference.cache

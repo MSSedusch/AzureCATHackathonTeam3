@@ -11,7 +11,7 @@ namespace MobileApp
     {
         public App()
         {
-            InitializeComponent();
+            //InitializeComponent();
 
             MainPage = new MobileApp.MainPage();
         }
