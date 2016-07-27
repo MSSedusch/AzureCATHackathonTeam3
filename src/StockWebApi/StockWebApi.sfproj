@@ -27,6 +27,7 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\PortfolioManager\PortfolioManager.csproj" />
     <ProjectReference Include="..\StockProWebApi\StockProWebApi.csproj" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />

@@ -1,1 +1,2 @@
 c:\users\jtong\documents\visual studio 2015\Projects\StockWebApi\StockWebApi\obj\x64\Debug\StockWebApi.sfprojResolveAssemblyReference.cache
+C:\Users\raramani\gitrepos\cathack\AzureCATHackathonTeam3\src\StockWebApi\obj\x64\Debug\StockWebApi.sfprojResolveAssemblyReference.cache
