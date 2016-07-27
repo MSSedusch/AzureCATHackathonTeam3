@@ -1,0 +1,2 @@
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp.UWP\MobileApp.UWP.csproj;x86
+C:\work\dev\git\AzureCATHackathonTeam3\src\MobileApp\MobileApp\MobileApp.csproj;neutral
