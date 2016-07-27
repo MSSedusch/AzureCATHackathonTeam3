@@ -31,6 +31,7 @@
     <Service Name="StockProWebApi">
       <StatelessService ServiceTypeName="StockProWebApiType" InstanceCount="[StockProWebApi_InstanceCount]">
         <SingletonPartition />
+        <PlacementConstraints> NodeType==weblayer</PlacementConstraints>
       </StatelessService>
     </Service>
   </DefaultServices>
