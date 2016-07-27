@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Model
 {
-    public enum AssetType
+    public class AssetType
     {
-        RealEstate,
-        Stock,
-        Cash,
-        MutualFunds
+        public string Name { get; set; }
     }
 }
