@@ -6,3 +6,11 @@ C:\Users\raramani\gitrepos\cathack\AzureCATHackathonTeam3\src\TestMLConsoleApp\b
 C:\Users\raramani\gitrepos\cathack\AzureCATHackathonTeam3\src\TestMLConsoleApp\bin\Debug\Newtonsoft.Json.xml
 C:\Users\raramani\gitrepos\cathack\AzureCATHackathonTeam3\src\TestMLConsoleApp\obj\Debug\TestMLConsoleApp.exe
 C:\Users\raramani\gitrepos\cathack\AzureCATHackathonTeam3\src\TestMLConsoleApp\obj\Debug\TestMLConsoleApp.pdb
+C:\work\dev\git\AzureCATHackathonTeam3\src\TestMLConsoleApp\bin\Debug\TestMLConsoleApp.exe.config
+C:\work\dev\git\AzureCATHackathonTeam3\src\TestMLConsoleApp\bin\Debug\TestMLConsoleApp.exe
+C:\work\dev\git\AzureCATHackathonTeam3\src\TestMLConsoleApp\bin\Debug\TestMLConsoleApp.pdb
+C:\work\dev\git\AzureCATHackathonTeam3\src\TestMLConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\work\dev\git\AzureCATHackathonTeam3\src\TestMLConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\work\dev\git\AzureCATHackathonTeam3\src\TestMLConsoleApp\obj\Debug\TestMLConsoleApp.csprojResolveAssemblyReference.cache
+C:\work\dev\git\AzureCATHackathonTeam3\src\TestMLConsoleApp\obj\Debug\TestMLConsoleApp.exe
+C:\work\dev\git\AzureCATHackathonTeam3\src\TestMLConsoleApp\obj\Debug\TestMLConsoleApp.pdb

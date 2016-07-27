@@ -3,3 +3,5 @@ C:\work\dev\git\AzureCATHackathonTeam3\src\Model\bin\Debug\Model.pdb
 C:\work\dev\git\AzureCATHackathonTeam3\src\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
 C:\work\dev\git\AzureCATHackathonTeam3\src\Model\obj\Debug\Model.dll
 C:\work\dev\git\AzureCATHackathonTeam3\src\Model\obj\Debug\Model.pdb
+C:\work\dev\git\AzureCATHackathonTeam3\src\Model\obj\Debug\Model.dll.mdb
+C:\work\dev\git\AzureCATHackathonTeam3\src\Model\bin\Debug\Model.dll.mdb

@@ -4,8 +4,22 @@
              xmlns:local="clr-namespace:MobileApp"
              x:Class="MobileApp.MainPage">
 
-  <Label Text="Welcome to Xamarin Forms!"
-           VerticalOptions="Center"
-           HorizontalOptions="Center" />
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition />
+      <RowDefinition Height="Auto" />
+    </Grid.RowDefinitions>
+
+    <ListView x:Name="lvAssetTypes" Margin="8" ItemTapped="AssetType_Tapped">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <TextCell Text="{Binding Name}" />
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+
+    <Button Text="Ranking" Grid.Row="1"  Margin="8"/>
+    
+  </Grid>
 
 </ContentPage>
